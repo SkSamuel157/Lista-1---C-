@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\43479555888\\Desktop\\C#\\Ativ03\\",
+  "WorkspaceRootPath": "C:\\Users\\43479555888\\Desktop\\C#\\Lista 1 - C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE140EC0-315F-4324-A7B7-7F98A770A955}|Ativ03\\Ativ03.csproj|c:\\users\\43479555888\\desktop\\c#\\ativ03\\ativ03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EE140EC0-315F-4324-A7B7-7F98A770A955}|Ativ03\\Ativ03.csproj|c:\\users\\43479555888\\desktop\\c#\\lista 1 - c#\\ativ03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE140EC0-315F-4324-A7B7-7F98A770A955}|Ativ03\\Ativ03.csproj|solutionrelative:ativ03\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\43479555888\\Desktop\\C#\\Ativ03\\Ativ03\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\43479555888\\Desktop\\C#\\Lista 1 - C#\\Ativ03\\Program.cs",
               "RelativeDocumentMoniker": "Ativ03\\Program.cs",
-              "ToolTip": "C:\\Users\\43479555888\\Desktop\\C#\\Ativ03\\Ativ03\\Program.cs",
+              "ToolTip": "C:\\Users\\43479555888\\Desktop\\C#\\Lista 1 - C#\\Ativ03\\Program.cs",
               "RelativeToolTip": "Ativ03\\Program.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAYwFAAAAAnAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-17T19:08:22.841Z",
               "EditorCaption": ""
